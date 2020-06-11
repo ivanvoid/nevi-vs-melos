@@ -1,0 +1,2 @@
+0: Nevus
+1: Melanoma
