@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 ISIC
 pytorch_tutorial*
+*.pth
+data_t
