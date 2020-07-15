@@ -1,0 +1,80 @@
+2020-07-15 13:08:48,230 - Segmentation - INFO - Segmentation mode: MAIN
+2020-07-15 13:08:48,230 - Segmentation - INFO - Creating Dataset and Dataloader.
+2020-07-15 13:08:48,233 - Segmentation - INFO - DataLoader mode: MAIN
+2020-07-15 13:08:48,513 - Segmentation - INFO - Loading model.
+2020-07-15 13:08:57,241 - Segmentation - INFO - Epoch[ 1/10] loss: 2.4614, val_loss: 1.4608
+2020-07-15 13:09:04,796 - Segmentation - INFO - Epoch[ 2/10] loss: 0.8210, val_loss: 0.6841
+2020-07-15 13:09:12,189 - Segmentation - INFO - Epoch[ 3/10] loss: 0.5029, val_loss: 0.4936
+2020-07-15 13:09:19,657 - Segmentation - INFO - Epoch[ 4/10] loss: 0.3378, val_loss: 0.4783
+2020-07-15 13:09:27,310 - Segmentation - INFO - Epoch[ 5/10] loss: 0.2662, val_loss: 0.4826
+2020-07-15 13:09:34,959 - Segmentation - INFO - Epoch[ 6/10] loss: 0.2290, val_loss: 0.4560
+2020-07-15 13:09:42,224 - Segmentation - INFO - Epoch[ 7/10] loss: 0.2019, val_loss: 0.5298
+2020-07-15 13:09:49,599 - Segmentation - INFO - Epoch[ 8/10] loss: 0.1725, val_loss: 0.5180
+2020-07-15 13:09:57,471 - Segmentation - INFO - Epoch[ 9/10] loss: 0.1592, val_loss: 0.5543
+2020-07-15 13:10:04,750 - Segmentation - INFO - Epoch[10/10] loss: 0.1505, val_loss: 0.5255
+2020-07-15 13:10:04,751 - Segmentation - INFO - training done.
+2020-07-15 13:10:04,752 - Segmentation - INFO - Saving model.
+2020-07-15 13:44:36,011 - Segmentation - INFO - Segmentation mode: MAIN
+2020-07-15 13:44:36,011 - Segmentation - INFO - Segmentation mode: MAIN
+2020-07-15 13:44:36,012 - Segmentation - INFO - Creating Dataset and Dataloader.
+2020-07-15 13:44:36,012 - Segmentation - INFO - Creating Dataset and Dataloader.
+2020-07-15 13:44:36,015 - Segmentation - INFO - DataLoader mode: MAIN
+2020-07-15 13:44:36,015 - Segmentation - INFO - DataLoader mode: MAIN
+2020-07-15 13:44:36,024 - Segmentation - INFO - Loading model.
+2020-07-15 13:44:36,024 - Segmentation - INFO - Loading model.
+2020-07-15 13:44:45,926 - Segmentation - INFO - Epoch[ 1/10] loss: 2.4273, val_loss: 1.7717
+2020-07-15 13:44:45,926 - Segmentation - INFO - Epoch[ 1/10] loss: 2.4273, val_loss: 1.7717
+2020-07-15 13:44:55,350 - Segmentation - INFO - Epoch[ 2/10] loss: 0.9516, val_loss: 0.7807
+2020-07-15 13:44:55,350 - Segmentation - INFO - Epoch[ 2/10] loss: 0.9516, val_loss: 0.7807
+2020-07-15 13:45:04,426 - Segmentation - INFO - Epoch[ 3/10] loss: 0.6165, val_loss: 0.4899
+2020-07-15 13:45:04,426 - Segmentation - INFO - Epoch[ 3/10] loss: 0.6165, val_loss: 0.4899
+2020-07-15 13:45:13,979 - Segmentation - INFO - Epoch[ 4/10] loss: 0.4364, val_loss: 0.4360
+2020-07-15 13:45:13,979 - Segmentation - INFO - Epoch[ 4/10] loss: 0.4364, val_loss: 0.4360
+2020-07-15 13:45:23,706 - Segmentation - INFO - Epoch[ 5/10] loss: 0.3408, val_loss: 0.4200
+2020-07-15 13:45:23,706 - Segmentation - INFO - Epoch[ 5/10] loss: 0.3408, val_loss: 0.4200
+2020-07-15 13:45:33,101 - Segmentation - INFO - Epoch[ 6/10] loss: 0.2776, val_loss: 0.4230
+2020-07-15 13:45:33,101 - Segmentation - INFO - Epoch[ 6/10] loss: 0.2776, val_loss: 0.4230
+2020-07-15 13:45:42,900 - Segmentation - INFO - Epoch[ 7/10] loss: 0.2358, val_loss: 0.4386
+2020-07-15 13:45:42,900 - Segmentation - INFO - Epoch[ 7/10] loss: 0.2358, val_loss: 0.4386
+2020-07-15 13:45:52,616 - Segmentation - INFO - Epoch[ 8/10] loss: 0.2074, val_loss: 0.4388
+2020-07-15 13:45:52,616 - Segmentation - INFO - Epoch[ 8/10] loss: 0.2074, val_loss: 0.4388
+2020-07-15 13:46:01,977 - Segmentation - INFO - Epoch[ 9/10] loss: 0.1844, val_loss: 0.4353
+2020-07-15 13:46:01,977 - Segmentation - INFO - Epoch[ 9/10] loss: 0.1844, val_loss: 0.4353
+2020-07-15 13:46:11,221 - Segmentation - INFO - Epoch[10/10] loss: 0.1670, val_loss: 0.4442
+2020-07-15 13:46:11,221 - Segmentation - INFO - Epoch[10/10] loss: 0.1670, val_loss: 0.4442
+2020-07-15 13:46:11,223 - Segmentation - INFO - Training done.
+2020-07-15 13:46:11,223 - Segmentation - INFO - Training done.
+2020-07-15 13:46:11,224 - Segmentation - INFO - Saving model.
+2020-07-15 13:46:11,224 - Segmentation - INFO - Saving model.
+2020-07-15 13:46:11,305 - Segmentation - INFO - Generating masks for train data.
+2020-07-15 13:46:11,305 - Segmentation - INFO - Generating masks for train data.
+2020-07-15 13:59:10,664 - Segmentation - INFO - Segmentation mode: MAIN
+2020-07-15 13:59:10,665 - Segmentation - INFO - Creating Dataset and Dataloader.
+2020-07-15 13:59:10,668 - Segmentation - INFO - DataLoader mode: MAIN
+2020-07-15 13:59:10,917 - Segmentation - INFO - Loading model.
+2020-07-15 13:59:20,228 - Segmentation - INFO - Epoch[ 1/10] loss: 2.5558, val_loss: 3.3815
+2020-07-15 13:59:28,590 - Segmentation - INFO - Epoch[ 2/10] loss: 1.0326, val_loss: 1.9804
+2020-07-15 13:59:36,969 - Segmentation - INFO - Epoch[ 3/10] loss: 0.6659, val_loss: 1.1794
+2020-07-15 13:59:45,076 - Segmentation - INFO - Epoch[ 4/10] loss: 0.4861, val_loss: 0.9270
+2020-07-15 13:59:53,470 - Segmentation - INFO - Epoch[ 5/10] loss: 0.3802, val_loss: 0.7822
+2020-07-15 14:00:01,641 - Segmentation - INFO - Epoch[ 6/10] loss: 0.3098, val_loss: 0.7011
+2020-07-15 14:00:09,752 - Segmentation - INFO - Epoch[ 7/10] loss: 0.2637, val_loss: 0.5964
+2020-07-15 14:00:18,112 - Segmentation - INFO - Epoch[ 8/10] loss: 0.2272, val_loss: 0.5963
+2020-07-15 14:00:26,269 - Segmentation - INFO - Epoch[ 9/10] loss: 0.2004, val_loss: 0.5358
+2020-07-15 14:00:34,433 - Segmentation - INFO - Epoch[10/10] loss: 0.1795, val_loss: 0.6346
+2020-07-15 14:00:34,434 - Segmentation - INFO - Training done.
+2020-07-15 14:00:34,435 - Segmentation - INFO - Saving model.
+2020-07-15 14:00:34,461 - Segmentation - INFO - Generating masks for train data.
+2020-07-15 14:10:41,270 - Segmentation - INFO - Segmentation mode: MAIN
+2020-07-15 14:10:41,271 - Segmentation - INFO - Creating Dataset and Dataloader.
+2020-07-15 14:10:41,274 - Segmentation - INFO - DataLoader mode: MAIN
+2020-07-15 14:10:41,283 - Segmentation - INFO - Loading model.
+2020-07-15 14:10:49,769 - Segmentation - INFO - Epoch[ 1/ 5] loss: 2.5557, val_loss: 3.3805
+2020-07-15 14:10:58,052 - Segmentation - INFO - Epoch[ 2/ 5] loss: 1.0326, val_loss: 1.9805
+2020-07-15 14:11:06,332 - Segmentation - INFO - Epoch[ 3/ 5] loss: 0.6662, val_loss: 1.1784
+2020-07-15 14:11:14,610 - Segmentation - INFO - Epoch[ 4/ 5] loss: 0.4864, val_loss: 0.9283
+2020-07-15 14:11:22,938 - Segmentation - INFO - Epoch[ 5/ 5] loss: 0.3806, val_loss: 0.7810
+2020-07-15 14:11:22,939 - Segmentation - INFO - Training done.
+2020-07-15 14:11:22,940 - Segmentation - INFO - Saving model.
+2020-07-15 14:11:22,964 - Segmentation - INFO - Generating masks for train data.
+2020-07-15 14:11:27,890 - Segmentation - INFO - done.

@@ -2,4 +2,5 @@
 ISIC
 pytorch_tutorial*
 *.pth
-data_t
+data*
+__*
