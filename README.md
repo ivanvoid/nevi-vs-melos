@@ -7,4 +7,4 @@ where:
 /data - folder with a data    
 /exp - folder with experements results  
 /logs - folder with logs of experements  
-<img src="old/graphics_readme/medical_pipline (1).png" height=480>
+<img src="old/graphics_readme/medical_pipline (3).png" height=480>
