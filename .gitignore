@@ -4,3 +4,4 @@ pytorch_tutorial*
 *.pth
 data*
 __*
+*.png
